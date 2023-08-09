@@ -1,4 +1,4 @@
-# Largest prime factor
+# Largest prime factor POTD 9/AUGUST/2023
 ## Medium
 <div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given a number <strong>N</strong>, the task is to find the largest prime factor of that number.</span><br><span style="font-size: 14pt;">&nbsp;</span><span style="font-size: 14pt;"><strong>Example 1:</strong></span></p>
 <pre><span style="font-size: 14pt;"><strong>Input:</strong>

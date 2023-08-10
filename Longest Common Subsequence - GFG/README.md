@@ -1,4 +1,4 @@
-# Longest Common Subsequence POTD 10-AUGUST-2023
+# Longest Common Subsequence POTD 10/AUGUST/2023
 ## Medium
 <div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two strings, find the length of longest subsequence present in both of them. Both the strings are in <strong>uppercase </strong>latin alphabets.</span></p>
 <p><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
